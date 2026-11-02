@@ -14,7 +14,7 @@ from clients import bot, assistant, call_py, LOGGER
 from helpers import smallcaps_title
 
 # Handlers register karne ke liye import karna zaroori hai
-import play  # noqa: F401
+£import play  # noqa: F401
 
 web = FastAPI()
 
